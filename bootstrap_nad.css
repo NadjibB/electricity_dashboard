@@ -1,0 +1,37 @@
+.navbar {
+  background-color: #1F2548;
+  border-color:black;
+}
+
+
+.navbar-brand {
+color:white !important;
+}
+
+body{
+  background-color: #00394A;
+}
+
+.chart-title {
+  color: white;
+  font-size: 19px;
+  font-weight: bold;
+  padding: 7px 10px 4px;
+  background-color: #00394A;
+}
+
+blockquote {
+  color: white;
+  font-size: 19px;
+  font-weight: bold;
+  padding: 7px 10px 4px;
+  background-color: #00394A;
+}
+
+.boite{
+  border-width: 0px 0px 0px 0px;
+}
+
+.boite_accueil{
+  border-width: 0px 0px 0px 0px;
+}
